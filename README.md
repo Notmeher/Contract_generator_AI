@@ -14,7 +14,6 @@ This is a powerful contract generation tool that uses AI to automatically create
 
 - **Streamlit**: Used for the web interface.
 - **Groq API (via LangChain)**: Powers the AI that generates contract sections.
-- **OpenAI**: The AI model used for generating the contract responses.
 - **Python**: Backend programming language used to tie everything together.
 
 ## Requirements
